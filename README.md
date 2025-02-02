@@ -14,12 +14,12 @@ I focus on optimizing cloud environments for high availability and performance.
 
 <h2>🚀 What I Do:</h2>
 <ul>
-  <li>☁️ <strong>Cloud & DevOps:</strong> Architecting and automating cloud solutions on <strong>AWS</strong></li>
-  <li>🏗 <strong>Infrastructure as Code:</strong> Managing infrastructure with <strong>Terraform & Ansible</strong></li>
-  <li>⚙️ <strong>CI/CD & Automation:</strong> Streamlining deployments using <strong>Jenkins & GitHub Actions</strong></li>
-  <li>🐳 <strong>Containerization & Orchestration:</strong> Deploying scalable apps with <strong>Docker & Kubernetes</strong></li>
-  <li>🗄 <strong>Database Administration:</strong> Managing and optimizing <strong>Oracle & MySQL</strong> for high performance</li>
-  <li>🐍 <strong>Python Scripting:</strong> Automating tasks and solving complex problems with <strong>Python</strong></li>
+  <li>☁️ <strong>Cloud & DevOps:</strong> Architecting and automating cloud solutions on <strong>AWS.</strong></li>
+  <li>🏗 <strong>Infrastructure as Code:</strong> Managing infrastructure with <strong>Terraform & Ansible.</strong></li>
+  <li>⚙️ <strong>CI/CD & Automation:</strong> Streamlining deployments using <strong>Jenkins & GitHub Actions.</strong></li>
+  <li>🐳 <strong>Containerization & Orchestration:</strong> Deploying scalable apps with <strong>Docker & Kubernetes.</strong></li>
+  <li>🗄 <strong>Database Administration:</strong> Managing and optimizing <strong>Oracle & MySQL.</strong> for high performance</li>
+  <li>🐍 <strong>Python Scripting:</strong> Automating tasks and solving complex problems with <strong>Python.</strong></li>
 </ul>
 
 <p>📚 <strong>Always learning. Always innovating. Open to collaboration! 🤝</strong></p>
