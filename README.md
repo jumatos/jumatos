@@ -18,7 +18,7 @@ I focus on optimizing cloud environments for high availability and performance.
   <li>🏗 <strong>Infrastructure as Code:</strong> Managing infrastructure with <strong>Terraform & Ansible.</strong></li>
   <li>⚙️ <strong>CI/CD & Automation:</strong> Streamlining deployments using <strong>Jenkins & GitHub Actions.</strong></li>
   <li>🐳 <strong>Containerization & Orchestration:</strong> Deploying scalable apps with <strong>Docker & Kubernetes.</strong></li>
-  <li>🗄 <strong>Database Administration:</strong> Managing and optimizing <strong>Oracle & MySQL.</strong> for high performance</li>
+  <li>🗄 <strong>Database Administration:</strong> Managing and optimizing <strong>Oracle & MySQL.</strong> for high performance.</li>
   <li>🐍 <strong>Python Scripting:</strong> Automating tasks and solving complex problems with <strong>Python.</strong></li>
 </ul>
 
