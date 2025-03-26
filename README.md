@@ -14,6 +14,7 @@ I focus on optimizing cloud environments for high availability and performance.
 
 <h2>🚀 What I Do:</h2>
 <ul>
+   <li> <strong>Unix/Linux: </strong>strong> Operating system administrator with over 7 years of experience. </li>
   <li>☁️ <strong>Cloud & DevOps:</strong> Architecting and automating cloud solutions on <strong>AWS.</strong></li>
   <li>🏗 <strong>Infrastructure as Code:</strong> Managing infrastructure with <strong>Terraform & Ansible.</strong></li>
   <li>⚙️ <strong>CI/CD & Automation:</strong> Streamlining deployments using <strong>Jenkins & GitHub Actions.</strong></li>
