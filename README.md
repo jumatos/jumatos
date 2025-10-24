@@ -20,7 +20,7 @@ I focus on optimizing cloud environments for high availability and performance.
   <li>⚙️ <strong>CI/CD & Automation:</strong> Streamlining deployments using <strong>Jenkins.</strong></li>
   <li>🐳 <strong>Containerization & Orchestration:</strong> Deploying scalable apps with <strong>Docker & Kubernetes.</strong></li>
   <li>🗄 <strong>Database Administration:</strong> Managing and optimizing <strong>Oracle & MySQL.</strong> for high performance.</li>
-  <li>🐍 <strong>Scripting:</strong> Automating tasks and solving complex problems with <strong>Python and Bash Scripting.</strong></li>
+  <li>🐍 <strong>Scripting:</strong> Automating tasks and solving complex problems with <strong>Python & Bash Scripting.</strong></li>
 </ul>
 
 <p>📚 <strong>Always learning. Always innovating. Open to collaboration! 🤝</strong></p>
