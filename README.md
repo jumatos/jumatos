@@ -6,7 +6,7 @@
 
 <h2>💻 About Me:</h2>
 <p>
-I am a <strong>Software Engineer</strong> with more than 5 years of experience working as <strong>Site Reliability Engineering (SRE), DevOps</strong> 
+I am a <strong>Software Engineer</strong> with more than 5 years of experience working as <strong>Site Reliability Engineering (SRE), Cloud Engineer</strong> 
 <strong>and Database Administration (DBA)</strong>. 
 Passionate about building <strong>scalable</strong>, <strong>automated</strong>, and <strong>resilient</strong> infrastructures, 
 I focus on optimizing cloud environments for high availability and performance.
