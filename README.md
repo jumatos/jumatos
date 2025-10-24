@@ -1,7 +1,7 @@
 # Hi there 👋, Juan here. 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-<h1>🇩🇴 Software Engineer | SRE | Cloud Engineer | DBA</h1>
+<h1>🇩🇴 SRE | Cloud Engineer | DBA</h1>
 <p>🕒 <strong>Based in the Dominican Republic | Time Zone: Atlantic Standard Time (AST)</strong></p>
 
 <h2>💻 About Me:</h2>
